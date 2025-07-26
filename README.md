@@ -12,9 +12,9 @@ Use the **Month Selector (Slicer)** on the left to explore other months dynamica
 
 ##  Key Metrics
 
-- ** Total Patients:** 513
-- ** Average Wait Time:** 36.32 minutes
-- ** Patient Satisfaction Score:** 4.96 / 5
+-  Total Patients:513
+-  Average Wait Time: 36.32 minutes
+-  Patient Satisfaction Score: 4.96 / 5
 
 ---
 
@@ -70,14 +70,14 @@ Use the **Month Selector (Slicer)** on the left to explore other months dynamica
 
 ##  Features
 
-- ✅ **Interactive slicers** to switch between months
-- ✅ **Dynamic visualizations** including bar charts, pie charts, and KPI cards
-- ✅ Designed for **monthly operational review and executive reporting**
-- ✅ Entirely built in **Microsoft Excel** using native features (PivotTables, Slicers, Conditional Formatting)
+- **Interactive slicers** to switch between months
+- **Dynamic visualizations** including bar charts, pie charts, and KPI cards
+- Designed for **monthly operational review and executive reporting**
+- Entirely built in **Microsoft Excel** using native features (PivotTables, Slicers, Conditional Formatting)
 
 ---
 
-## 📁 Project Info
+## Project Info
 
 - **Tool:** Microsoft Excel
 - **File Type:** `.xlsx`
